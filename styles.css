@@ -1,0 +1,56 @@
+body{
+  background-color: #e6ffff;
+}
+
+.column1{
+  float: left;
+  width: 30%;
+}
+
+.column2{
+  float: left;
+  width: 30%;
+}
+
+.column3{
+  float: left;
+  width: 30%;
+}
+
+.column4{
+  float: left;
+  width: 30%;
+}
+
+.column5{
+  float: left;
+  width: 30%;
+  margin-left: 12px;
+}
+
+
+.column6{
+  float: left;
+  width: 30%;
+}
+.column3List{
+margin-bottom: 20px;
+}
+
+.column5List{
+  margin-bottom: 20px;
+}
+
+.column6List{
+margin-bottom: 20px;
+}
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.color{
+  color: #00aaff;
+}
